@@ -1,6 +1,6 @@
 # Hey there 🤙🏼, I'm Ali
 
-### <p>A Product Designer and UI/UX Designer</p>
+### <p>A Product Designer and Product Manager</p>
 
 <p>I design product experiences that simplify complex systems and turn boring workflows into moments people actually enjoy.</br>
 My approach mixes rigorous user research, clear information arthitecture, and result-driven execution: Discovery> Hypothesis> Fast protopypes> Measurable outcomes.</br>I obsess over handoff and accessibility, love pairing with engineers, and mentor junior designers so teams get faster, smarter outcomes.</p>
